@@ -1,0 +1,29 @@
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+title = "Botica"
+baseURL= "https://blog.gabelula.com"
+languageCode = "es"
+enableRobotsTXT = true
+SectionsPagesMenu = "main"
+
+[languages]
+  [languages.es]
+    title = "Botica"
+    weight = 1
+    contentDir = "content/es"
+    description = "de todo como en botica"
+  [languages.en]
+    title = "Pandora's box"
+    weight = 2
+    contentDir = "content/en"
+    description = "CW: navigate with care"
+
+
+[params]
+  recent_posts_number = 2
+  favicon = "img/leaf.ico"
+  twitter = "https://twitter.com/gaba"
+  mastodon = "https://systerserver.town/@gaba"
+  github = "https://github.com/gabelula"
+  rss = ""
+  background_color_class = "bg-purple"
+  featured_image = "images/gohugo-default-sample-hero-image.jpg"
