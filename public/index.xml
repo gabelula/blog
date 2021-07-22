@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Botica</title>
+    <link>https://blog.gabelula.com/</link>
+    <description>Recent content on Botica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 15 Dec 2018 00:42:42 -0800</lastBuildDate>
+    
+	<atom:link href="https://blog.gabelula.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bitacora de escritos rápidos</title>
+      <link>https://blog.gabelula.com/blog/blog-platform/</link>
+      <pubDate>Sun, 06 Jan 2019 11:34:14 -0800</pubDate>
+      
+      <guid>https://blog.gabelula.com/blog/blog-platform/</guid>
+      <description>Write.as es una plataforma minimalista para escribir bitacoras. Tiene varias opciones en el registro gratuito y puede conectar a medios sociales distribuidos como mastodon. Me gusta la fácilidad de levantar un texto sin nada mas alredeor y con la pagina en blanco.
+Aqui mis escritios como gaba: https://write.as/gaba/</description>
+    </item>
+    
+    <item>
+      <title>Encuentros...</title>
+      <link>https://blog.gabelula.com/encuentros/conferences/</link>
+      <pubDate>Sat, 15 Dec 2018 12:00:00 -0800</pubDate>
+      
+      <guid>https://blog.gabelula.com/encuentros/conferences/</guid>
+      <description>¿En donde nos podemos ver en 2019?  FOSDEM Tor Dev  ¿Por donde me encontró la vida en 2018?  Internet Freedom Festival en Valencia en donde empeze colaborando en apoyo de facilitación y me vi envuelta en una aventura con códigos de conducta. Gender and Tech Institute en donde me maraville ante la magia de Bjoerk y Alex para coordinar un festival feminista alrededor de seguridad digital. Transhackmeeting en donde volvi a encontrarme con mis raices de espacios no orientados a objetivos (para bien o para mal).</description>
+    </item>
+    
+    <item>
+      <title>Encuentros...</title>
+      <link>https://blog.gabelula.com/encuentros/digitales/</link>
+      <pubDate>Sat, 15 Dec 2018 12:00:00 -0800</pubDate>
+      
+      <guid>https://blog.gabelula.com/encuentros/digitales/</guid>
+      <description>¿En donde nos podemos ver en 2019?  irc.oftc.net @ gaba systerserver.town/@gaba twitter.com/gaba tor project mailing lists  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.gabelula.com/about/web/</link>
+      <pubDate>Sat, 15 Dec 2018 01:54:41 -0800</pubDate>
+      
+      <guid>https://blog.gabelula.com/about/web/</guid>
+      <description>Todxs tenemos opiniones, pensamientos, dudas e ideas que nos persiguen. Quiero, muchas veces, articularlas. No por que crea que son más importantes que las ideas de mis vecinxs. No porque crea ser única en la posibilidad de tener ideas y pensamientos. Sino porque creo que soy tan única como mi vecino en la perspectiva que traigo al mundo. Lo que ha ido construyendo mi manera de ver el mundo:
+ haber salido al mundo en Buenos Aires en épocas dictatoriales con toda mi familia uruguaya cuestionando la idea de pertenencia y lugar de nacimiento crecer en una villa a las afueras de un pueblo del interior del Uruguay crecer en una familia trabajadora y con serios problemas de llegar a fin de mes crecer en una familia nuclear con roles basados en genero y a la vez una madre que tomaba todas las decisiones reales crecer con casi toda mi familia a pocos minutos unos de otros crecer con parte de mi familia en Brasil visitando cada Enero sentirme identificada con el genero que se me asigno al nacer haber ido a escuelas publicas con un breve pasaje por una escuela privada y católica no haber sido bautizada y ni profesado ninguna religión haber visto un abuelo curandero con una mezcla de creencias y valores sacados desde donde les cantaba todas las vivencias de mis padres, abuelxs, tixs y lo que eso ha implantado en mi con la educación que me dieron haber atendido la universidad en Uruguay, la facultad de ingeniería haber atendido la escuela de educador social en Montevideo y las conexiones que allí realice con el mundo de lucha por espacios más justos para todxs haber participado durante años en grupos de discusión anarquista haber viajado y visto como gente vive en otros lugares del mundo haber migrado a un mundo blanco privilegiado en el corazón de la bestia imperialista no crecer sufriendo en mi persona la discriminación racial haber aprendido, vivido y caído de cara ante discriminación etnica, xenophobia y sexismo cuando migre e California haber pasado como inmigrante latinoamericana mujer por el mundo de startups técnicas en san francisco, california haber pasado por el mundo de educadoras sexuales, cuestionado el mundo heteronormativo patriarcal poder caminar, correr, usar todos mis sentidos y no tener serios problemas de salud mental que me impidan utilizar la infraestructura de la forma que fue diseñada haber podido realizarme un aborto cuando tome la decisión aún en situación de clandestinidad no haber tenido ningún aborto natural haber podido elegir donde parir a mis hijxs haber podido salir de una relación de abuso con el alma en pedazos pero aún con vida  Y seguramente muchísimos cientos de puntos más que afectan el lugar donde HOY estoy parada y como veo al mundo.</description>
+    </item>
+    
+    <item>
+      <title>Yo yo io yo moi Me yo...</title>
+      <link>https://blog.gabelula.com/about/me/</link>
+      <pubDate>Sat, 15 Dec 2018 00:54:41 -0800</pubDate>
+      
+      <guid>https://blog.gabelula.com/about/me/</guid>
+      <description>“I want freedom, the right to self-expression, everybody’s right to beautiful, radiant things.”
+ He cargado múltiples sombreros desarrollando tecnología y estoy comprometida en intentar crear un mundo nuevo con quienes buscamos justicia económica y social así como espacios que nos fortalezcan para vivir lo mejor de todas nosotras. Me interesan las tecnologías libres así como compartir conocimiento y toda experiencia que involucre construir juntas un mundo más justo. Mis principales escuelas, ademas de la Facultad de Ingeniería de la Universidad de la República en Uruguay o las escuelas públicas en un pueblito del interior de Uruguay, han sido el movimiento de software libre tanto en Lationamerica como en Europa y Estados Unidos, las radios comunitarias y medios alternativos globales y comunidades con fuerte pisada en Internet.</description>
+    </item>
+    
+    <item>
+      <title>Halloween 2015</title>
+      <link>https://blog.gabelula.com/2015/10/24/halloween-2015-2/</link>
+      <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2015/10/24/halloween-2015-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Halloween 2015</title>
+      <link>https://blog.gabelula.com/2015/10/24/halloween-2015-3/</link>
+      <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2015/10/24/halloween-2015-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Halloween 2015</title>
+      <link>https://blog.gabelula.com/2015/10/24/halloween-2015/</link>
+      <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2015/10/24/halloween-2015/</guid>
+      <description>&amp;lt;p&amp;gt; via Flickr http://flic.kr/p/zfG4WJ &amp;lt;/p&amp;gt;  </description>
+    </item>
+    
+    <item>
+      <title>Community technology is</title>
+      <link>https://blog.gabelula.com/2015/06/18/community-technology-is/</link>
+      <pubDate>Fri, 19 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2015/06/18/community-technology-is/</guid>
+      <description>when you build technology with the community that is going to use it when the technology is open sourced when the decisions on what technology is used are made by their users when the technology infrastructure is owned and controlled by the community that uses it when the education around technology happens in a horizontal space where the knowledge is shared  Collaborative notes from the CommTech gathering at Allied Medica Conference 2015 https://etherpad.</description>
+    </item>
+    
+    <item>
+      <title>Open News code convening 2015</title>
+      <link>https://blog.gabelula.com/2015/06/05/open-news-code-convening-2015/</link>
+      <pubDate>Fri, 05 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2015/06/05/open-news-code-convening-2015/</guid>
+      <description>Open News have been organizing one day events with techies from different news organizations around USA. These are hackatons kind of events where people bring their projects and they work on them together. It tries to give space for developers to connect and talk about the project at their own newsroom. This year they started with one day of code convening at Write the Docs conference in Portland, OR and I had the opportunity to help with their projects.</description>
+    </item>
+    
+    <item>
+      <title>Carta cuestionando donde guardamos nuestros datos en Uruguay</title>
+      <link>https://blog.gabelula.com/2015/06/04/carta-cuestionando-donde-guardamos-nuestros-datos-en-uruguay/</link>
+      <pubDate>Thu, 04 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2015/06/04/carta-cuestionando-donde-guardamos-nuestros-datos-en-uruguay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ada Initiative y el síndrome de fraude</title>
+      <link>https://blog.gabelula.com/2015/04/23/ada-initiative-y-el-sindrome-de-fraude/</link>
+      <pubDate>Thu, 23 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2015/04/23/ada-initiative-y-el-sindrome-de-fraude/</guid>
+      <description>Ada Initiative es una organización, creada por Valerie Aurora y Mary Gardiner, que comenzó hace unos años con el fin de apoyar mujeres que trabajan con tecnologia. Han estado ayudando a crear códigos de conducta para conferencias, haciendo talleres en como crear espacios más diversos, y organizando una conferencia/campamento/desconferencia para mujeres en las tecnologías abiertas llamada AdaCamp. El nombre viene en honor a Ada Lovelace, una matematica y escritora inglesa que se considera una de las primeras programadoras, por su trabajo en la máquina calculadora mecánica.</description>
+    </item>
+    
+    <item>
+      <title>¡Adios Galeano!</title>
+      <link>https://blog.gabelula.com/2015/04/13/adios-galeano/</link>
+      <pubDate>Mon, 13 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2015/04/13/adios-galeano/</guid>
+      <description>Sueñan las pulgas con comprarse un perro
+y sueñan los nadies con salir de pobres,
+que algún mágico día
+llueva de pronto la buena suerte,
+que llueva a cántaros la buena suerte;
+pero la buena suerte no llueve ayer, ni hoy,
+ni mañana, ni nunca,
+ni en lloviznita cae del cielo la buena suerte,
+por mucho que los nadies la llamen
+y aunque les pique la mano izquierda,
+o se levanten con el pie derecho,</description>
+    </item>
+    
+    <item>
+      <title>Museo de dinosaurios en Sucre</title>
+      <link>https://blog.gabelula.com/2015/02/07/dinosaurios/</link>
+      <pubDate>Sun, 08 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2015/02/07/dinosaurios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>El suertudo</title>
+      <link>https://blog.gabelula.com/2015/02/07/el-suertudo/</link>
+      <pubDate>Sat, 07 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2015/02/07/el-suertudo/</guid>
+      <description>El suertudo solia ser “Negrito” pero en el contexto de la sociedad politicamente correcta en la que vivimos en EEUU, se convirtio de Blacky en Lucky. Nos parecio correcto pues paso de vivir en un espacio muy chiquito a tener todo un fondo para correr. Fuimos felices con el suertudo. Cuando dejo de ser cachorro paso a ser el mejor perro del mundo. Era cariñoso con todos y en especial con los niños.</description>
+    </item>
+    
+    <item>
+      <title>Brands &amp; racism en camino a buenos aires</title>
+      <link>https://blog.gabelula.com/2014/12/10/brands-racism-en-camino-a-buenos-aires/</link>
+      <pubDate>Thu, 11 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2014/12/10/brands-racism-en-camino-a-buenos-aires/</guid>
+      <description>“Palestina Libre” dice su grandote pin en el bolso. Un aro en la nariz y un pañuelo alrededor del cuello. Manda mensajes de voz por whatsup mientras espera en cola para entrar al avión a Buenos Aires. Al ver venir a un grupo de turistas ríe una grabación en el teléfono y le dice a su interlocutor que acaba de llegar una manada de chinos… y algo más que seguro por suerte no entiendo.</description>
+    </item>
+    
+    <item>
+      <title>Chilenos</title>
+      <link>https://blog.gabelula.com/2014/12/10/chilenos/</link>
+      <pubDate>Thu, 11 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2014/12/10/chilenos/</guid>
+      <description>Una mujer empieza a quejarse de algo que no entiendo. Justo estoy saliendo a la calle a buscar a mis tíos. Estan mirando el camper, comprado en Chile, que utilizaremos en nuestro viaje por latam. Es una calle secundaria en un barrio pijo del norte de Buenos Aires. Mis tíos vienen del barrio en donde yo crecí, un barrio pobre en el cordón de Montevideo. La mujer busca cómplice en mi para quejarse del camper estacionado en la calle, suponiendo que yo no conozco a quienes le dan vuelta.</description>
+    </item>
+    
+    <item>
+      <title>Un aprendizaje desde Buenos Aires sobre comunidades</title>
+      <link>https://blog.gabelula.com/2014/11/17/un-aprendizaje-desde-buenos-aires-sobre-comunidades/</link>
+      <pubDate>Mon, 17 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2014/11/17/un-aprendizaje-desde-buenos-aires-sobre-comunidades/</guid>
+      <description>Los espacios comunitarios se construyen en base a la confianza en el otro. Confianza que significa cuidado por no prejuzgar y entender desde donde el otro está parado. Y cuidado en como y desde donde nos conectamos para hacer a los grupos funcionar.
+  Cuidar como mostramos nuestras diferencias. Está bueno hacerlo de frente y también sin lastimar.
+  No tener miedo de perder el control. Cuando un espacio es grupal va a tener los tiempos del grupo y eso es lo que lo hace rico.</description>
+    </item>
+    
+    <item>
+      <title>Un paso para más Internet en las calles</title>
+      <link>https://blog.gabelula.com/2014/09/05/229/</link>
+      <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2014/09/05/229/</guid>
+      <description>Alguna vez estuviste sin datos, agarraste tu teléfono y sólo viste decenas de redes WiFi cerradas? No estaría bueno encontrar una red wireless abierta de vez en cuando? Aunque sea sólo para revisar tu email o mirar un mapa rápidamente?
+Que pasaría si todos comparten un poquitito de su WiFi? No estaríamos ayudando a mejorar el acceso a la mayor librería de la historia? Recuerda, compartir es bueno!
+Y si abrimos nuestras redes?</description>
+    </item>
+    
+    <item>
+      <title>¡Open News Fellowship es una aventura!</title>
+      <link>https://blog.gabelula.com/2014/07/31/open-news-fellowship-es-una-aventura/</link>
+      <pubDate>Thu, 31 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2014/07/31/open-news-fellowship-es-una-aventura/</guid>
+      <description>Un año de aventuras es lo que esperaba de Buenos Aires y no me esta defraudando. Una fellowship es un año de aprendizaje fuera de la burbuja academica. Y para &amp;lt;a href=“http://www.opennews.org&amp;quot;&amp;gt;Open Newssignifica soñar en prensa y tecnología. Durante este año me he insertado en curso acelerado en las redacciones del mundo. No es el programa drapetomano en el que jugaba y experimentaba en radios comunitarias uruguayas hace más de 15 años junto a mis amigas Alejandra y Ana Luisa.</description>
+    </item>
+    
+    <item>
+      <title>Experimentando con un UnFestival</title>
+      <link>https://blog.gabelula.com/2014/07/22/experimentando-con-un-unfestival/</link>
+      <pubDate>Tue, 22 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2014/07/22/experimentando-con-un-unfestival/</guid>
+      <description>¿Como hacer un encuentro maximizando participación e intercambio de conocimiento? ¿Como crear espacios donde optimizemos intercambio de estrategias, herramientas, formas de trabajo en lo que hacemos el día a día?
+Hay varias estructuras como open spaces, desconferencias, barcamps y otros que intentan horizontalmente aprender de unos y otros en encuentros especificos. Una de las personas que más ha experimentado con modelos de conferencias des-estructuradas es Allen Gunn de Aspiration Tech. Y con él, Misty Avila de Aspiration Tech y Dirk Slater de Fabriders charlamos los desafios de hacer un espacio participativo dentro del Open Knowledge Festival 2014 en Berlin.</description>
+    </item>
+    
+    <item>
+      <title>Políticas de Salud en las Notícias: Una Colaboración entre Periodistas</title>
+      <link>https://blog.gabelula.com/2014/07/01/politicas-de-salud-en-las-noticias-una-colaboracion-entre-periodistas/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2014/07/01/politicas-de-salud-en-las-noticias-una-colaboracion-entre-periodistas/</guid>
+      <description>El 16, 17 y 18 de Junio participe en un encuentro sobre politicas de salud en las noticias. Fue organizado por Banco Mundial con la ayuda de DATA en Montevideo. La intención de Sandra Moscoso y Roberto Iunes del Banco Mundial fue discutir con periodistas políticas de salud en general y apoyarlos en trabajo con datos.
+Busqueda y procesamiento de datos de salud
+En el primer día las presentaciones de la mañana fueron sobre desafios que enfrenta la salud pública en general y diferentes sistemas de financiamiento de sistemas de salud.</description>
+    </item>
+    
+    <item>
+      <title>Civic Media Conference 2014</title>
+      <link>https://blog.gabelula.com/2014/06/25/civic-media-conference-2014/</link>
+      <pubDate>Thu, 26 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2014/06/25/civic-media-conference-2014/</guid>
+      <description>The open internet and everything after…
+Llegue a Boston con la sombra de la abuela entre mis huesos. La abuela, en su dulzura, siempre tuvo ese sarcasmo de la vida que es otro trait de mi familia y del que varias veces he renegado. Me pregunto si hay otra forma de no ser tan critica y dejarme fluir en el lado inocente de las cosas. De cualquier forma, me es casi imposible no buscarle la quinta pata al gato.</description>
+    </item>
+    
+    <item>
+      <title>[Café de Data]  Git para no programadores</title>
+      <link>https://blog.gabelula.com/2014/05/28/cafe-de-data-git-para-no-programadores/</link>
+      <pubDate>Wed, 28 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2014/05/28/cafe-de-data-git-para-no-programadores/</guid>
+      <description>El sábado tuvimos un nuevo café de data, esta vez la presentación fue sobre GIT. Fue la misma presentación que di en las Jornadas de Periodismo en Barcelona y por lo extenso de la misma sólo tuvimos presentación sin discusion o trabajo posterior.
+El próximo mes estamos organizando un taller sobre scrapear la web con Gusa.</description>
+    </item>
+    
+    <item>
+      <title>VozData – analizando colectivamente los gastos del senado</title>
+      <link>https://blog.gabelula.com/2014/05/28/vozdata-analizando-colectivamente-los-gastos-del-senado/</link>
+      <pubDate>Wed, 28 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2014/05/28/vozdata-analizando-colectivamente-los-gastos-del-senado/</guid>
+      <description>Finalmente se completaron los 6657 documentos de gastos del senado del 2010, 2011 y 2012! Durante los últimos dos meses varios grupos e individuos alrededor de Argentina estuvieron entrando a la web de VozData para colaborar su granito de arena en ingresar y chequear datos que aparecen en los PDFs que La Nación consiguio del senado argentino.
+Ahora queda el arduo trabajo de verificar y limpiar esa base de datos para publicarla y poder utilizarla en articulos junto a periodistas de La Nacion.</description>
+    </item>
+    
+    <item>
+      <title>And who’s gonna end up holdin’ your hand-</title>
+      <link>https://blog.gabelula.com/2014/04/29/and-whos-gonna-end-up-holdin-your-hand/</link>
+      <pubDate>Tue, 29 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2014/04/29/and-whos-gonna-end-up-holdin-your-hand/</guid>
+      <description>And who’s gonna end up holdin’ your hand-
+A beautiful woman or a tall, handsome man?
+There’s no doubt they’ll love you, but it’s yet to be seen:
+Will anyone ever know you like me?
+Will anyone ever know you like me?
+“Like Me” – Chely Wright</description>
+    </item>
+    
+    <item>
+      <title>Aplicaciones web para presentar datos</title>
+      <link>https://blog.gabelula.com/2014/04/27/aplicaciones-web-para-presentar-datos/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2014/04/27/aplicaciones-web-para-presentar-datos/</guid>
+      <description>Hace unos meses, me invitaron (por estar en el programa de Open News de Mozilla) a participar de las segundas jornadas de periodismo de datos en España. Impresionada por el buen trabajo que hizo [Hace unos meses, me invitaron (por estar en el programa de Open News de Mozilla) a participar de las segundas jornadas de periodismo de datos en España. Impresionada por el buen trabajo que hizo]3 durante NICAR al mostrar a periodistas como hacer una aplicación de datos, me pareció que podía ser interesante hacer lo mismo con periodistas en España.</description>
+    </item>
+    
+    <item>
+      <title>NICAR 2014</title>
+      <link>https://blog.gabelula.com/2014/03/06/nicar-2014/</link>
+      <pubDate>Thu, 06 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2014/03/06/nicar-2014/</guid>
+      <description>“We need to fear the consequences of our work more than we love the cleverness of our ideas” (Mike Monteiro)
+Acabo de volver de NICAR, una conferencia que se realiza todos los años y junta a periodistas de varios medios grandes alrededor del mundo. El objetivo es discutir y presentar tecnología que ayude a los periodistas a manejar datos para sus investigaciones y artículos. Este año junto a la mayor cantidad de gente hasta el momento, más de 1000 personas del mundo del periodismo.</description>
+    </item>
+    
+    <item>
+      <title>Café de DATA &amp; Día de Datos Abiertos 2014</title>
+      <link>https://blog.gabelula.com/2014/03/03/cafe-de-data-dia-de-datos-abiertos-2014/</link>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2014/03/03/cafe-de-data-dia-de-datos-abiertos-2014/</guid>
+      <description>Ciudades más grandes que Montevideo parecen tener una comunidad vibrante alrededor de datos abiertos y transparencia. La gente se encuentra a discutir formas de ayudar el proceso de transparencia en gobiernos, como buscar datos o como crear nuevos proyectos. Uruguay ha tenido una buena ley de acceso a información pública y un grupo de datos abiertos en la intendencia de Montevideo que ha empujado por la publicación de datos publicos. Desde DATA queremos crear un espacio para discutir, ver proyectos que inspiren y crear juntos herramientas y analisis de datos.</description>
+    </item>
+    
+    <item>
+      <title>Cafés de DATA &amp; Open Data Day</title>
+      <link>https://blog.gabelula.com/2014/03/03/cafes-de-data-open-data-day/</link>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2014/03/03/cafes-de-data-open-data-day/</guid>
+      <description>Bigger cities than Montevideo seems to have a vibrant community around open data and transparency. People meet to discuss how to help the process of transparency in governments, how to look for data or to hack on new projects. Uruguay had a early quite good freedom of information law (that just changed last year to make it more restricted) and a good open data group in Montevideo’s local government that push to publish interesting public data sets.</description>
+    </item>
+    
+    <item>
+      <title>mmmmm venezuela querida</title>
+      <link>https://blog.gabelula.com/2014/03/03/mmmmm-venezuela-querida/</link>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2014/03/03/mmmmm-venezuela-querida/</guid>
+      <description>Am I the only one in the Internet that thinks that what is going on Venezuela is not black OR white?!! And not trust “the media” on it? Más que no confiar es desconfiar. ¿Donde estan los medios comunitarios e independientes?</description>
+    </item>
+    
+    <item>
+      <title>the next Eclectic Tech Carnival</title>
+      <link>https://blog.gabelula.com/2013/12/23/the-next-eclectic-tech-carnival/</link>
+      <pubDate>Mon, 23 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2013/12/23/the-next-eclectic-tech-carnival/</guid>
+      <description>Eclectic Tech Carnival is a self-managed event around feminism and free technologies and will take
+place from the 4 to the 11 Th of August in Calafou, an ecoindustrial postcapitalist colony located at 60 km from Barcelona. We will post more information in January, in the meantime save the dates!! Looking forward seeing you!
+&amp;lt;www.calafou.org&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title>Ley de formatos abiertos y software libre aprobada en Uruguay</title>
+      <link>https://blog.gabelula.com/2013/12/18/ley-de-formatos-abiertos-y-software-libre-aprobada-en-uruguay/</link>
+      <pubDate>Wed, 18 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2013/12/18/ley-de-formatos-abiertos-y-software-libre-aprobada-en-uruguay/</guid>
+      <description>Hay una ley nueva en Uruguay, que fomenta el uso de software libre en el estado. Deja abierta la puerta a software privativo pero pide la justificacion de porque se usa. Define software libre de una forma muy amplia, en donde el software se puede usar para cualquier proposito sin importar si es comercial o no. Especifica que puede ser copiado pero no bajo que condiciones. Obliga a los organismos a usar formatos abiertos.</description>
+    </item>
+    
+    <item>
+      <title>Audre Lorde: “The Transformation of Silence into Language and Action”</title>
+      <link>https://blog.gabelula.com/2013/12/06/audre-lorde-the-transformation-of-silence-into-language-and-action/</link>
+      <pubDate>Fri, 06 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2013/12/06/audre-lorde-the-transformation-of-silence-into-language-and-action/</guid>
+      <description>“Silence will not protect you”. I love that quote. It is from an essay from Audre Lorde and it talks so much about the fear of speaking up. Is it better to hide away in a dark corner of life or go out and say what you think about injustice and oppression and your own experience?</description>
+    </item>
+    
+    <item>
+      <title>Coffee shops in Portland, OR where to work from</title>
+      <link>https://blog.gabelula.com/2013/12/06/coffee-shops-in-portland-or-where-to-work-from/</link>
+      <pubDate>Fri, 06 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2013/12/06/coffee-shops-in-portland-or-where-to-work-from/</guid>
+      <description>I love coffee shops that feel like my grandma’s living room. The ones that have very old furniture and where people share tables. The one near my house (that does not look like my grandma’s living room) that serves very good coffee is always so full of people in the mornings. Coffee shops are the social/community place for people that don’t go to churches in the US…
+My favorites in the neighborhood I live in Portland,OR</description>
+    </item>
+    
+    <item>
+      <title>Conferencia Regional de Datos Abiertos 2013 – Inscriptos por País</title>
+      <link>https://blog.gabelula.com/2013/12/06/conferencia-regional-de-datos-abiertos-2013-inscriptos-por-pais/</link>
+      <pubDate>Fri, 06 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2013/12/06/conferencia-regional-de-datos-abiertos-2013-inscriptos-por-pais/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hector in da-haus</title>
+      <link>https://blog.gabelula.com/2013/11/23/playing-with-hector/</link>
+      <pubDate>Sun, 24 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2013/11/23/playing-with-hector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La niña que amaba la vida</title>
+      <link>https://blog.gabelula.com/2013/11/23/128/</link>
+      <pubDate>Sun, 24 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2013/11/23/128/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invierno en portland</title>
+      <link>https://blog.gabelula.com/2013/11/21/invierno-en-portland/</link>
+      <pubDate>Thu, 21 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2013/11/21/invierno-en-portland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Air and light and time and space</title>
+      <link>https://blog.gabelula.com/2013/09/28/air-and-light-and-time-and-space/</link>
+      <pubDate>Sat, 28 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2013/09/28/air-and-light-and-time-and-space/</guid>
+      <description>“–you know, I’ve either had a family, a job,
+something has always been in the
+way
+but now
+I’ve sold my house, I’ve found this
+place, a large studio, you should see the space and
+the light.
+for the first time in my life I’m going to have
+a place and the time to
+create.”
+ no baby, if you’re going to create
+you’re going to create whether you work</description>
+    </item>
+    
+    <item>
+      <title>They plopped to the ground at my feet</title>
+      <link>https://blog.gabelula.com/2013/09/28/they-plopped-to-the-ground-at-my-feet/</link>
+      <pubDate>Sat, 28 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2013/09/28/they-plopped-to-the-ground-at-my-feet/</guid>
+      <description>I saw my life
+branching out before
+me like the green
+fig tree in the story
+…
+[The Bell Jar ]1from Silvia Plath</description>
+    </item>
+    
+    <item>
+      <title>Adios ginebra</title>
+      <link>https://blog.gabelula.com/2013/09/20/adios-ginebra/</link>
+      <pubDate>Fri, 20 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2013/09/20/adios-ginebra/</guid>
+      <description>Quiero escribir adios ginebra y encuentro la muerte como una daga obligandome a seguir. Te recuerdo. Ginebra esta impregnada de vos, de tu frances , de tus okupas, de tus letras y palabras. Tiene tu risa metida en un rincon y las noches llenas de tus pasos. Me imaginaba ginebra con las uñas pintadas de verde, azul, rojo. Imaginaba ese aire que no se como explicar. La vida esta colgada de un hilo en la plaza de saint jean.</description>
+    </item>
+    
+    <item>
+      <title>Mis ciudades</title>
+      <link>https://blog.gabelula.com/2013/09/20/mis-ciudades/</link>
+      <pubDate>Fri, 20 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2013/09/20/mis-ciudades/</guid>
+      <description>Mis ciudades tienen nombres, que no son los nombres del mapa. Aquella que quedo atras tiene el color celeste de los ojos de la niña que huyo de ella. Esta, a la que llego, tiene el color de la sangre de la dictadura cuando todos empezamos a correr. La otra tiene el agridulce sabor de la pasión y su abandono. La de mas alla es un pedazo de mi corazon andando en bicicleta.</description>
+    </item>
+    
+    <item>
+      <title>Moi</title>
+      <link>https://blog.gabelula.com/2013/09/20/moi/</link>
+      <pubDate>Fri, 20 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2013/09/20/moi/</guid>
+      <description>El sueño me abomba, me emborracha. Estoy en esta caja para gallinas a nivel de halcon. Que fue lo que paso. Quien me metio en esta lata? Mi carne, mis huesos, mi sangre, mis nervios. Todo lo que he sabido de mi viaja en este cuadrado de cielo. Y alla abajo la humanidad vive sin mi.</description>
+    </item>
+    
+    <item>
+      <title>From shapefile format to geojson</title>
+      <link>https://blog.gabelula.com/2013/09/10/from-shapefile-format-to-geojson/</link>
+      <pubDate>Tue, 10 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2013/09/10/from-shapefile-format-to-geojson/</guid>
+      <description>ogr2ogr is a very useful tool to convert data features between file formats. To convert input.shp to output.geojson:
+ ogr2ogr -f geoJSON output.json input.shp
+ There are many operations that you can do in the middle like quering for only rows with specific attributes.</description>
+    </item>
+    
+    <item>
+      <title>Geocoding with python</title>
+      <link>https://blog.gabelula.com/2013/08/19/geocoding-with-python/</link>
+      <pubDate>Mon, 19 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2013/08/19/geocoding-with-python/</guid>
+      <description>One geocoder you can use is GEOPy.
+To install it:
+`One geocoder you can use is GEOPy.
+To install it:
+`
+to use it with google geocoders:
+``One geocoder you can use is GEOPy.
+To install it:
+`One geocoder you can use is GEOPy.
+To install it:
+`
+to use it with google geocoders:
+``
+Colonia 1194, Montevideo 11100, Uruguay: -34.90522, -56.19513</description>
+    </item>
+    
+    <item>
+      <title>Rackspace y como desaparecio mi blog</title>
+      <link>https://blog.gabelula.com/2013/08/15/hello-world/</link>
+      <pubDate>Thu, 15 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2013/08/15/hello-world/</guid>
+      <description>Desde hace un tiempo habia casi olvidado la existencia de EL blog. El blog en donde escribo esporadicamente siempre ha sido una constante en mi identidad en linea desde alrededor del 2001. Hace unos meses nos olvidamos del servidor (en Rackspace) en donde teniamos alojado varios experimentos (y nuestros blogs) y la tarjeta de donde se cobraba Rackspace expiro. Los correos sobre el cobro seguramente pasaron a spam y solo nos dimos cuenta de que el servidor estaba fuera de linea cuando ya Rackspace habia borrado todo rastro e historia de su existencia.</description>
+    </item>
+    
+  </channel>
+</rss>

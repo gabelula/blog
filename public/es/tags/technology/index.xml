@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>technology on Botica</title>
+    <link>https://blog.gabelula.com/es/tags/technology/</link>
+    <description>Recent content in technology on Botica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 19 Aug 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.gabelula.com/es/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Geocoding with python</title>
+      <link>https://blog.gabelula.com/2013/08/19/geocoding-with-python/</link>
+      <pubDate>Mon, 19 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2013/08/19/geocoding-with-python/</guid>
+      <description>One geocoder you can use is GEOPy.
+To install it:
+`One geocoder you can use is GEOPy.
+To install it:
+`
+to use it with google geocoders:
+``One geocoder you can use is GEOPy.
+To install it:
+`One geocoder you can use is GEOPy.
+To install it:
+`
+to use it with google geocoders:
+``
+Colonia 1194, Montevideo 11100, Uruguay: -34.90522, -56.19513</description>
+    </item>
+    
+  </channel>
+</rss>

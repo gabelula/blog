@@ -1,29 +1,43 @@
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 title = "Botica"
 baseURL= "https://blog.gabelula.com"
 languageCode = "es"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+themesDir = "../.."
+resourceDir = "../resources"
+contentDir = "content"
+
+DefaultContentLanguage = "es"
+#SectionsPagesMenu = ["main", "about"]
 enableRobotsTXT = true
-SectionsPagesMenu = "main"
 
-[languages]
-  [languages.es]
-    title = "Botica"
-    weight = 1
-    contentDir = "content/es"
-    description = "de todo como en botica"
-  [languages.en]
-    title = "Pandora's box"
-    weight = 2
-    contentDir = "content/en"
-    description = "CW: navigate with care"
-
+#menu = ["main", "about"]
 
 [params]
-  recent_posts_number = 2
+  description = "de todo como en botica"
+  recent_posts_number = 3
   favicon = "img/leaf.ico"
   twitter = "https://twitter.com/gaba"
   mastodon = "https://systerserver.town/@gaba"
   github = "https://github.com/gabelula"
   rss = ""
   background_color_class = "bg-purple"
-  featured_image = "images/gohugo-default-sample-hero-image.jpg"
+  featured_image = "/images/crater-lake.jpeg"
+  about_this_web = "/about/the/web/"
+  about_me = "/about/me/"
+  site_logo = ""
+  mainSections = ["blog","audios", "encuentros", "lecturas", "permacultura"]
+
+[menu]
+  [[menu.main]]
+    identifier = "blog"
+    name = "Escritos"
+    title = "Escritos al aire"
+    url = "/blog/"
+    weight = -100
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    title = "Que es esto?"
+    url = "/about/"
+    weight = -110

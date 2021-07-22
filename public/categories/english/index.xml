@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>english on Botica</title>
+    <link>https://blog.gabelula.com/categories/english/</link>
+    <description>Recent content in english on Botica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 19 Jun 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.gabelula.com/categories/english/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Community technology is</title>
+      <link>https://blog.gabelula.com/2015/06/18/community-technology-is/</link>
+      <pubDate>Fri, 19 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2015/06/18/community-technology-is/</guid>
+      <description>when you build technology with the community that is going to use it when the technology is open sourced when the decisions on what technology is used are made by their users when the technology infrastructure is owned and controlled by the community that uses it when the education around technology happens in a horizontal space where the knowledge is shared  Collaborative notes from the CommTech gathering at Allied Medica Conference 2015 https://etherpad.</description>
+    </item>
+    
+    <item>
+      <title>Open News code convening 2015</title>
+      <link>https://blog.gabelula.com/2015/06/05/open-news-code-convening-2015/</link>
+      <pubDate>Fri, 05 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2015/06/05/open-news-code-convening-2015/</guid>
+      <description>Open News have been organizing one day events with techies from different news organizations around USA. These are hackatons kind of events where people bring their projects and they work on them together. It tries to give space for developers to connect and talk about the project at their own newsroom. This year they started with one day of code convening at Write the Docs conference in Portland, OR and I had the opportunity to help with their projects.</description>
+    </item>
+    
+    <item>
+      <title>And who’s gonna end up holdin’ your hand-</title>
+      <link>https://blog.gabelula.com/2014/04/29/and-whos-gonna-end-up-holdin-your-hand/</link>
+      <pubDate>Tue, 29 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2014/04/29/and-whos-gonna-end-up-holdin-your-hand/</guid>
+      <description>And who’s gonna end up holdin’ your hand-
+A beautiful woman or a tall, handsome man?
+There’s no doubt they’ll love you, but it’s yet to be seen:
+Will anyone ever know you like me?
+Will anyone ever know you like me?
+“Like Me” – Chely Wright</description>
+    </item>
+    
+    <item>
+      <title>Cafés de DATA &amp; Open Data Day</title>
+      <link>https://blog.gabelula.com/2014/03/03/cafes-de-data-open-data-day/</link>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2014/03/03/cafes-de-data-open-data-day/</guid>
+      <description>Bigger cities than Montevideo seems to have a vibrant community around open data and transparency. People meet to discuss how to help the process of transparency in governments, how to look for data or to hack on new projects. Uruguay had a early quite good freedom of information law (that just changed last year to make it more restricted) and a good open data group in Montevideo’s local government that push to publish interesting public data sets.</description>
+    </item>
+    
+  </channel>
+</rss>

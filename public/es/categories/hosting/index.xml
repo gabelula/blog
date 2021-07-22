@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hosting on Botica</title>
+    <link>https://blog.gabelula.com/es/categories/hosting/</link>
+    <description>Recent content in hosting on Botica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 15 Aug 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.gabelula.com/es/categories/hosting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rackspace y como desaparecio mi blog</title>
+      <link>https://blog.gabelula.com/2013/08/15/hello-world/</link>
+      <pubDate>Thu, 15 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2013/08/15/hello-world/</guid>
+      <description>Desde hace un tiempo habia casi olvidado la existencia de EL blog. El blog en donde escribo esporadicamente siempre ha sido una constante en mi identidad en linea desde alrededor del 2001. Hace unos meses nos olvidamos del servidor (en Rackspace) en donde teniamos alojado varios experimentos (y nuestros blogs) y la tarjeta de donde se cobraba Rackspace expiro. Los correos sobre el cobro seguramente pasaron a spam y solo nos dimos cuenta de que el servidor estaba fuera de linea cuando ya Rackspace habia borrado todo rastro e historia de su existencia.</description>
+    </item>
+    
+  </channel>
+</rss>

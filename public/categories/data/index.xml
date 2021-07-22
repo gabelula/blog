@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data on Botica</title>
+    <link>https://blog.gabelula.com/categories/data/</link>
+    <description>Recent content in data on Botica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 06 Mar 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.gabelula.com/categories/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NICAR 2014</title>
+      <link>https://blog.gabelula.com/2014/03/06/nicar-2014/</link>
+      <pubDate>Thu, 06 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2014/03/06/nicar-2014/</guid>
+      <description>“We need to fear the consequences of our work more than we love the cleverness of our ideas” (Mike Monteiro)
+Acabo de volver de NICAR, una conferencia que se realiza todos los años y junta a periodistas de varios medios grandes alrededor del mundo. El objetivo es discutir y presentar tecnología que ayude a los periodistas a manejar datos para sus investigaciones y artículos. Este año junto a la mayor cantidad de gente hasta el momento, más de 1000 personas del mundo del periodismo.</description>
+    </item>
+    
+    <item>
+      <title>Café de DATA &amp; Día de Datos Abiertos 2014</title>
+      <link>https://blog.gabelula.com/2014/03/03/cafe-de-data-dia-de-datos-abiertos-2014/</link>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2014/03/03/cafe-de-data-dia-de-datos-abiertos-2014/</guid>
+      <description>Ciudades más grandes que Montevideo parecen tener una comunidad vibrante alrededor de datos abiertos y transparencia. La gente se encuentra a discutir formas de ayudar el proceso de transparencia en gobiernos, como buscar datos o como crear nuevos proyectos. Uruguay ha tenido una buena ley de acceso a información pública y un grupo de datos abiertos en la intendencia de Montevideo que ha empujado por la publicación de datos publicos. Desde DATA queremos crear un espacio para discutir, ver proyectos que inspiren y crear juntos herramientas y analisis de datos.</description>
+    </item>
+    
+    <item>
+      <title>Cafés de DATA &amp; Open Data Day</title>
+      <link>https://blog.gabelula.com/2014/03/03/cafes-de-data-open-data-day/</link>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2014/03/03/cafes-de-data-open-data-day/</guid>
+      <description>Bigger cities than Montevideo seems to have a vibrant community around open data and transparency. People meet to discuss how to help the process of transparency in governments, how to look for data or to hack on new projects. Uruguay had a early quite good freedom of information law (that just changed last year to make it more restricted) and a good open data group in Montevideo’s local government that push to publish interesting public data sets.</description>
+    </item>
+    
+    <item>
+      <title>From shapefile format to geojson</title>
+      <link>https://blog.gabelula.com/2013/09/10/from-shapefile-format-to-geojson/</link>
+      <pubDate>Tue, 10 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2013/09/10/from-shapefile-format-to-geojson/</guid>
+      <description>ogr2ogr is a very useful tool to convert data features between file formats. To convert input.shp to output.geojson:
+ ogr2ogr -f geoJSON output.json input.shp
+ There are many operations that you can do in the middle like quering for only rows with specific attributes.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tips on Botica</title>
+    <link>https://blog.gabelula.com/es/tags/tips/</link>
+    <description>Recent content in tips on Botica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 10 Sep 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.gabelula.com/es/tags/tips/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>From shapefile format to geojson</title>
+      <link>https://blog.gabelula.com/2013/09/10/from-shapefile-format-to-geojson/</link>
+      <pubDate>Tue, 10 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.gabelula.com/2013/09/10/from-shapefile-format-to-geojson/</guid>
+      <description>ogr2ogr is a very useful tool to convert data features between file formats. To convert input.shp to output.geojson:
+ ogr2ogr -f geoJSON output.json input.shp
+ There are many operations that you can do in the middle like quering for only rows with specific attributes.</description>
+    </item>
+    
+  </channel>
+</rss>
