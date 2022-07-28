@@ -11,5 +11,23 @@
 	<atom:link href="https://blog.gabelula.com/audios/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Escuchando...</title>
+      <link>https://blog.gabelula.com/audios/listening/</link>
+      <pubDate>Wed, 31 Jan 2018 12:55:26 -0800</pubDate>
+      
+      <guid>https://blog.gabelula.com/audios/listening/</guid>
+      <description> Sangre Fucsia Radio Ambulante How to survive the end of the world Intersection of Things Healing Justice Changelog Reading Octavia  </description>
+    </item>
+    
+    <item>
+      <title>Músiqueta</title>
+      <link>https://blog.gabelula.com/audios/music/</link>
+      <pubDate>Wed, 31 Jan 2018 12:55:26 -0800</pubDate>
+      
+      <guid>https://blog.gabelula.com/audios/music/</guid>
+      <description>Cuando vaya pal monte&amp;hellip;</description>
+    </item>
+    
   </channel>
 </rss>
