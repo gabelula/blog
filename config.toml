@@ -14,7 +14,7 @@ enableRobotsTXT = true
 
 [params]
   description = "de todo como en botica"
-  recent_posts_number = 3
+  recent_posts_number = 1
   favicon = "img/leaf.ico"
   twitter = "https://twitter.com/gaba"
   mastodon = "https://systerserver.town/@gaba"
