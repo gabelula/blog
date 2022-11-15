@@ -12,6 +12,10 @@ enableRobotsTXT = true
 
 #menu = ["main", "about"]
 
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
 [params]
   description = "de todo como en botica"
   recent_posts_number = 1
